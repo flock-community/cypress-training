@@ -17,9 +17,13 @@
 ## 2. Advanced
 
 * [Introduction](2.-advanced/untitled.md)
+* [The Course](2.-advanced/the-course/README.md)
+  * [1. Configuration](2.-advanced/the-course/1.-configuration.md)
+  * [2. Authentication](2.-advanced/the-course/2.-authentication.md)
+  * [3. Spies](2.-advanced/the-course/3.-spies.md)
+  * [4. API testing](2.-advanced/the-course/4.-api-testing.md)
 
 ## DEZE GAAT NIET IN DE WORKSHOP
 
 * [Ideas](deze-gaat-niet-in-de-workshop/ideas.md)
-* [Untitled](deze-gaat-niet-in-de-workshop/untitled.md)
 
