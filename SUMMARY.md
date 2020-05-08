@@ -19,9 +19,11 @@
 * [Introduction](2.-advanced/untitled.md)
 * [The Course](2.-advanced/the-course/README.md)
   * [1. Configuration](2.-advanced/the-course/1.-configuration.md)
-  * [2. Authentication](2.-advanced/the-course/2.-authentication.md)
-  * [3. Spies](2.-advanced/the-course/3.-spies.md)
-  * [4. API testing](2.-advanced/the-course/4.-api-testing.md)
+  * [2. Route](2.-advanced/the-course/2.-route.md)
+  * [3. Custom commands](2.-advanced/the-course/2.-authentication.md)
+  * [4. Spies](2.-advanced/the-course/3.-spies.md)
+  * [5. Iframes](2.-advanced/the-course/4.-api-testing.md)
+  * [Api testing](2.-advanced/the-course/api-testing.md)
 
 ## DEZE GAAT NIET IN DE WORKSHOP
 
