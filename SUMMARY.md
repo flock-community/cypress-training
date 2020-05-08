@@ -23,7 +23,7 @@
   * [3. Custom commands](2.-advanced/the-course/2.-authentication.md)
   * [4. Spies](2.-advanced/the-course/3.-spies.md)
   * [5. Iframes](2.-advanced/the-course/4.-api-testing.md)
-  * [Api testing](2.-advanced/the-course/api-testing.md)
+  * [6. Api testing](2.-advanced/the-course/api-testing.md)
 
 ## DEZE GAAT NIET IN DE WORKSHOP
 
